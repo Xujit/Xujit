@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sujith
 - 👀 I’m interested in Java, Flutter
-- 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sujithmn at outlook.com
 
